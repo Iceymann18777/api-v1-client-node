@@ -47,8 +47,8 @@
   },
   "devDependencies": {
     "chai": "3.4.*",
-    "mocha": "2.3.*",
-    "nock": "5.2.*",
-    "standard": "~8.6.0"
+    "mocha": "6.2.3",
+    "nock": "8.0.0",
+    "standard": "~13.0.0"
   }
 }
