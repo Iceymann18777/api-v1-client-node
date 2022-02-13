@@ -36,7 +36,7 @@
     ]
   },
   "dependencies": {
-    "q": "^1.4.1",
+    "q": "^2.0.3",
     "request-promise": "^0.4.3",
     "url-join": "0.0.1",
     "url-parse": "^1.0.5",
